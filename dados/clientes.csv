@@ -1,0 +1,501 @@
+cliente_id,clinica,regional,perfil,potencial_mensal,data_cadastro
+5001,Prime Prime,Sul,Especialista,39457,2024-08-18
+5002,Centro Top,Sul,Popular,22011,2023-02-13
+5003,Dental Plus,SP Capital,Premium,11286,2023-09-21
+5004,Implant Center,Centro-Oeste,Premium,31082,2024-06-17
+5005,Centro Top,Sul,Especialista,29363,2024-06-20
+5006,Oral Care,SP Capital,Popular,36476,2024-01-01
+5007,Prime Top,Norte/Nordeste,Especialista,30128,2023-12-22
+5008,Sorriso VIP,Sul,Popular,34397,2024-08-16
+5009,Prime VIP,SP Interior,Popular,25423,2023-06-04
+5010,Odonto Premium,SP Capital,Popular,23293,2023-10-23
+5011,Oral VIP,Sudeste,Especialista,10255,2024-07-31
+5012,Odonto VIP,SP Interior,Popular,9123,2023-03-05
+5013,Clínica Center,SP Interior,Especialista,23869,2023-04-22
+5014,Instituto Top,SP Interior,Premium,8242,2024-10-07
+5015,Prime VIP,SP Interior,Premium,30975,2024-06-06
+5016,Odonto Center,SP Interior,Especialista,14153,2024-03-18
+5017,Oral Top,Centro-Oeste,Popular,38056,2023-09-16
+5018,Clínica Especializado,Norte/Nordeste,Popular,15885,2024-01-30
+5019,Clínica Especializado,Norte/Nordeste,Popular,8411,2023-04-13
+5020,Clínica Prime,Sul,Premium,14049,2023-01-02
+5021,Prime Care,Sudeste,Popular,34466,2024-07-27
+5022,Dental Avançado,Sudeste,Popular,6647,2023-11-06
+5023,Sorriso Plus,Centro-Oeste,Premium,31730,2023-08-01
+5024,Implant Premium,Norte/Nordeste,Especialista,17481,2024-05-21
+5025,Dental Excelência,Centro-Oeste,Premium,34572,2024-09-05
+5026,Prime Top,Centro-Oeste,Premium,30124,2024-09-21
+5027,Dental Care,Centro-Oeste,Premium,14500,2024-02-28
+5028,Dental Plus,SP Capital,Popular,31201,2024-10-09
+5029,Clínica Top,SP Capital,Especialista,17885,2023-01-25
+5030,Odonto Top,Centro-Oeste,Especialista,19942,2023-11-07
+5031,Instituto Care,SP Interior,Popular,25691,2024-10-14
+5032,Prime Excelência,Centro-Oeste,Popular,8774,2023-07-07
+5033,Odonto Top,Sul,Premium,16520,2023-06-06
+5034,Centro Top,SP Capital,Premium,31624,2023-04-10
+5035,Prime Top,Sudeste,Popular,22766,2023-02-06
+5036,Master Top,Sudeste,Premium,32890,2024-06-07
+5037,Clínica Prime,Centro-Oeste,Especialista,31656,2024-04-18
+5038,Master Prime,Norte/Nordeste,Popular,5857,2024-10-15
+5039,Master Plus,Sudeste,Especialista,17686,2023-04-25
+5040,Instituto Care,Centro-Oeste,Popular,26399,2023-08-31
+5041,Oral Top,Norte/Nordeste,Popular,29609,2023-09-30
+5042,Sorriso Premium,SP Capital,Popular,23317,2024-01-01
+5043,Instituto Especializado,Sudeste,Premium,9238,2024-05-22
+5044,Odonto Excelência,Sudeste,Premium,22969,2024-10-16
+5045,Clínica Center,SP Capital,Especialista,37689,2024-09-12
+5046,Sorriso Plus,SP Interior,Especialista,10711,2023-05-25
+5047,Instituto Excelência,Sudeste,Popular,36395,2023-05-16
+5048,Oral Prime,Sul,Popular,26881,2024-08-11
+5049,Dental VIP,SP Capital,Popular,30045,2023-09-19
+5050,Oral Top,Sul,Premium,19193,2024-11-02
+5051,Clínica Especializado,Centro-Oeste,Especialista,31281,2024-08-29
+5052,Centro Excelência,Norte/Nordeste,Popular,35375,2023-03-23
+5053,Dental Avançado,Sudeste,Popular,15633,2024-04-13
+5054,Centro Center,SP Interior,Premium,37986,2024-03-14
+5055,Clínica Excelência,Sul,Popular,23159,2023-05-28
+5056,Clínica Care,Sudeste,Popular,10660,2023-05-23
+5057,Centro Premium,Sudeste,Popular,27337,2023-04-18
+5058,Prime Plus,Sul,Especialista,28633,2023-09-20
+5059,Prime Especializado,Sudeste,Especialista,32865,2024-08-25
+5060,Sorriso VIP,SP Interior,Especialista,11437,2023-12-10
+5061,Instituto Avançado,Norte/Nordeste,Especialista,20710,2024-10-12
+5062,Implant Avançado,Sul,Popular,22705,2024-08-01
+5063,Odonto Avançado,Sudeste,Popular,25354,2024-01-05
+5064,Dental Prime,SP Capital,Especialista,6540,2024-01-06
+5065,Implant Care,SP Capital,Especialista,23335,2023-11-05
+5066,Centro Plus,Norte/Nordeste,Premium,9853,2023-10-06
+5067,Prime Excelência,Centro-Oeste,Especialista,36262,2024-03-12
+5068,Clínica Premium,Norte/Nordeste,Premium,16372,2023-08-10
+5069,Clínica Excelência,Centro-Oeste,Premium,8155,2024-06-20
+5070,Implant Avançado,SP Interior,Especialista,7615,2023-11-10
+5071,Master Avançado,Norte/Nordeste,Especialista,29940,2024-05-18
+5072,Instituto Care,Norte/Nordeste,Popular,17643,2023-06-04
+5073,Master Care,Sudeste,Premium,26591,2023-12-12
+5074,Instituto Center,SP Interior,Premium,16929,2024-10-08
+5075,Instituto Premium,Sul,Especialista,9221,2024-08-14
+5076,Sorriso Top,Centro-Oeste,Premium,17839,2024-10-20
+5077,Sorriso Avançado,Norte/Nordeste,Premium,22736,2024-01-06
+5078,Prime Avançado,Centro-Oeste,Premium,28887,2023-02-13
+5079,Instituto VIP,SP Interior,Premium,38129,2023-08-13
+5080,Odonto Premium,SP Capital,Popular,9236,2024-03-21
+5081,Master Avançado,SP Interior,Especialista,6590,2023-12-11
+5082,Implant Excelência,SP Interior,Popular,26011,2023-05-24
+5083,Instituto Center,Norte/Nordeste,Popular,17600,2023-07-08
+5084,Centro Care,Centro-Oeste,Premium,38801,2023-12-31
+5085,Instituto Premium,Norte/Nordeste,Especialista,9005,2024-09-19
+5086,Oral Plus,Centro-Oeste,Premium,5010,2024-05-24
+5087,Centro Especializado,Sudeste,Premium,27370,2024-01-15
+5088,Odonto Prime,Centro-Oeste,Popular,12954,2023-04-20
+5089,Centro VIP,Norte/Nordeste,Popular,6921,2024-03-05
+5090,Oral Center,Centro-Oeste,Premium,29198,2023-06-09
+5091,Odonto Center,Sul,Premium,16282,2023-12-31
+5092,Clínica Center,Norte/Nordeste,Especialista,15983,2023-11-23
+5093,Master Center,Centro-Oeste,Premium,22591,2024-11-27
+5094,Implant Center,Sudeste,Especialista,8830,2024-02-20
+5095,Implant Plus,Centro-Oeste,Popular,32177,2023-04-01
+5096,Prime Plus,SP Interior,Popular,12713,2023-10-29
+5097,Master Excelência,SP Capital,Premium,6198,2024-03-04
+5098,Oral VIP,Norte/Nordeste,Especialista,39170,2024-10-21
+5099,Oral Premium,SP Capital,Popular,6434,2024-07-18
+5100,Dental Center,SP Interior,Premium,15312,2024-07-17
+5101,Oral Especializado,Sudeste,Premium,27302,2023-05-08
+5102,Instituto Center,SP Capital,Especialista,11071,2023-08-23
+5103,Dental Center,SP Capital,Premium,21969,2023-12-13
+5104,Dental Center,SP Interior,Premium,18484,2023-12-10
+5105,Instituto Premium,Sudeste,Premium,38501,2023-05-01
+5106,Odonto VIP,Sul,Especialista,23748,2023-07-26
+5107,Sorriso Premium,Sudeste,Premium,8202,2023-10-22
+5108,Implant Excelência,Sul,Popular,6643,2024-05-14
+5109,Oral Prime,Sudeste,Premium,7993,2024-06-13
+5110,Sorriso Plus,Sudeste,Popular,33770,2024-06-24
+5111,Oral VIP,SP Capital,Popular,12489,2024-09-01
+5112,Centro Top,Sul,Premium,18595,2023-09-26
+5113,Implant VIP,Norte/Nordeste,Especialista,18233,2024-07-03
+5114,Sorriso Excelência,Centro-Oeste,Premium,14373,2024-03-17
+5115,Implant Top,Norte/Nordeste,Premium,15924,2024-03-01
+5116,Clínica VIP,Sudeste,Popular,33164,2023-05-06
+5117,Implant Excelência,SP Capital,Especialista,22651,2023-10-30
+5118,Centro Avançado,Centro-Oeste,Premium,30972,2024-08-24
+5119,Master Especializado,Centro-Oeste,Especialista,11270,2024-02-20
+5120,Prime Center,Sudeste,Premium,13978,2023-08-28
+5121,Prime Care,Sudeste,Premium,27886,2024-08-03
+5122,Oral VIP,SP Interior,Premium,29911,2023-09-24
+5123,Odonto VIP,Sudeste,Popular,26456,2024-05-09
+5124,Instituto Especializado,SP Interior,Premium,25645,2024-09-13
+5125,Clínica Center,Sul,Premium,13825,2023-08-27
+5126,Oral VIP,Centro-Oeste,Premium,36740,2024-08-19
+5127,Prime VIP,Sul,Premium,39433,2023-10-21
+5128,Centro Prime,Sul,Especialista,11751,2023-07-26
+5129,Dental Plus,Norte/Nordeste,Especialista,35286,2023-02-22
+5130,Oral Avançado,Sul,Especialista,13026,2024-11-02
+5131,Instituto Care,Centro-Oeste,Popular,28830,2024-05-31
+5132,Sorriso Prime,Centro-Oeste,Premium,5911,2023-09-03
+5133,Implant Care,SP Interior,Especialista,37264,2024-07-30
+5134,Odonto Prime,Sul,Premium,31249,2024-02-25
+5135,Oral Care,SP Capital,Premium,7038,2023-05-23
+5136,Prime Excelência,Sul,Especialista,28767,2023-04-22
+5137,Dental Excelência,SP Capital,Popular,15624,2023-04-18
+5138,Sorriso Excelência,SP Interior,Premium,12483,2023-07-06
+5139,Master VIP,Sudeste,Especialista,7423,2024-07-14
+5140,Master VIP,Norte/Nordeste,Premium,7562,2024-11-29
+5141,Odonto Avançado,SP Capital,Premium,35105,2023-05-25
+5142,Dental Premium,Norte/Nordeste,Especialista,5574,2023-03-15
+5143,Master Avançado,Sul,Especialista,39700,2024-05-29
+5144,Sorriso Top,Sul,Premium,26271,2023-05-07
+5145,Clínica Excelência,Centro-Oeste,Premium,9676,2024-04-08
+5146,Master Excelência,SP Capital,Especialista,32444,2023-10-19
+5147,Odonto Excelência,Sudeste,Premium,14947,2023-06-09
+5148,Odonto Plus,Sul,Premium,21475,2024-09-09
+5149,Implant Excelência,Centro-Oeste,Especialista,35241,2023-08-13
+5150,Sorriso Top,Sul,Especialista,17415,2024-10-02
+5151,Instituto Top,Norte/Nordeste,Especialista,32773,2023-11-25
+5152,Odonto Care,Sudeste,Premium,35825,2024-10-02
+5153,Centro Especializado,Sul,Premium,13656,2024-11-01
+5154,Instituto Center,SP Capital,Popular,12255,2024-10-18
+5155,Instituto Care,Sudeste,Especialista,8134,2023-05-22
+5156,Master Premium,Norte/Nordeste,Especialista,8055,2023-04-18
+5157,Implant Excelência,Norte/Nordeste,Popular,13910,2024-01-15
+5158,Prime VIP,Norte/Nordeste,Especialista,23916,2023-03-27
+5159,Centro Premium,SP Interior,Especialista,27996,2023-09-17
+5160,Odonto VIP,Norte/Nordeste,Especialista,17488,2023-06-03
+5161,Implant Excelência,Norte/Nordeste,Popular,14538,2024-04-09
+5162,Implant Plus,Centro-Oeste,Especialista,25655,2023-04-17
+5163,Odonto Especializado,Sudeste,Especialista,9135,2024-10-06
+5164,Implant Center,Centro-Oeste,Popular,27020,2023-06-15
+5165,Oral Center,Norte/Nordeste,Especialista,17852,2024-04-11
+5166,Centro VIP,Sudeste,Premium,16711,2024-02-21
+5167,Sorriso Care,Centro-Oeste,Especialista,7106,2024-03-27
+5168,Odonto Center,SP Capital,Especialista,22960,2023-01-07
+5169,Implant Center,SP Capital,Premium,38127,2023-08-20
+5170,Centro Avançado,Norte/Nordeste,Premium,8380,2023-10-10
+5171,Centro Excelência,Sudeste,Especialista,23151,2023-06-18
+5172,Instituto Center,Sudeste,Premium,19596,2023-06-28
+5173,Instituto Excelência,Centro-Oeste,Popular,32405,2024-09-05
+5174,Odonto Center,Sul,Premium,18675,2023-01-30
+5175,Master Excelência,SP Interior,Popular,34269,2023-04-24
+5176,Instituto Premium,Sul,Especialista,10201,2024-03-16
+5177,Sorriso Care,Sul,Premium,36376,2023-08-18
+5178,Prime Center,Centro-Oeste,Especialista,13130,2023-10-12
+5179,Odonto Care,Norte/Nordeste,Especialista,12214,2023-05-12
+5180,Centro Plus,SP Interior,Popular,7693,2023-07-17
+5181,Clínica Prime,Sul,Popular,29331,2023-11-07
+5182,Prime Especializado,Norte/Nordeste,Popular,33626,2023-10-06
+5183,Odonto Plus,Centro-Oeste,Popular,14555,2024-06-01
+5184,Master Care,Centro-Oeste,Premium,26488,2024-11-10
+5185,Odonto Prime,Sudeste,Especialista,11209,2023-09-22
+5186,Implant Especializado,Centro-Oeste,Popular,10371,2023-10-28
+5187,Clínica VIP,SP Capital,Especialista,24202,2023-06-19
+5188,Implant Prime,SP Capital,Popular,30360,2024-03-06
+5189,Prime VIP,SP Capital,Especialista,31328,2024-05-04
+5190,Centro Excelência,Centro-Oeste,Especialista,18958,2023-04-11
+5191,Dental VIP,SP Capital,Especialista,31943,2024-05-06
+5192,Clínica Excelência,SP Capital,Premium,37227,2024-11-26
+5193,Clínica Premium,Norte/Nordeste,Especialista,34610,2024-03-01
+5194,Prime Plus,Sul,Popular,32601,2024-05-26
+5195,Sorriso Center,Centro-Oeste,Premium,11465,2023-10-23
+5196,Oral Especializado,SP Capital,Premium,9566,2023-01-08
+5197,Odonto Especializado,Sudeste,Premium,32579,2024-02-19
+5198,Odonto VIP,Norte/Nordeste,Especialista,13357,2024-07-13
+5199,Odonto Plus,Sul,Premium,30797,2024-07-30
+5200,Centro Plus,Centro-Oeste,Especialista,18576,2023-02-27
+5201,Dental Top,Centro-Oeste,Premium,34159,2023-12-21
+5202,Centro Top,SP Interior,Especialista,26575,2024-07-16
+5203,Odonto Center,Centro-Oeste,Especialista,11769,2024-10-08
+5204,Instituto Care,Sudeste,Especialista,37428,2023-06-07
+5205,Prime Premium,SP Interior,Especialista,5988,2024-10-23
+5206,Master Especializado,Norte/Nordeste,Premium,24963,2024-09-16
+5207,Oral Premium,Sudeste,Premium,37452,2023-05-23
+5208,Odonto Center,SP Capital,Popular,9188,2024-09-08
+5209,Prime Premium,SP Capital,Especialista,21060,2023-01-16
+5210,Oral VIP,SP Interior,Premium,6065,2023-01-05
+5211,Instituto Plus,Sudeste,Popular,35513,2023-12-16
+5212,Implant Plus,Sudeste,Especialista,32254,2023-10-26
+5213,Prime Especializado,Sudeste,Popular,35353,2023-09-06
+5214,Sorriso Especializado,Sul,Especialista,36157,2024-02-25
+5215,Odonto Plus,Sul,Premium,10942,2023-06-26
+5216,Dental Top,Sudeste,Especialista,19936,2023-09-29
+5217,Implant Center,Centro-Oeste,Premium,17215,2023-11-10
+5218,Instituto Care,SP Capital,Premium,39821,2024-07-09
+5219,Centro Care,Sudeste,Premium,25019,2024-03-31
+5220,Odonto Care,Centro-Oeste,Popular,29273,2024-02-23
+5221,Centro Plus,Sul,Popular,25567,2023-02-03
+5222,Dental Top,Centro-Oeste,Especialista,34872,2024-10-06
+5223,Clínica Avançado,Norte/Nordeste,Especialista,25885,2024-09-06
+5224,Odonto Center,Norte/Nordeste,Popular,18889,2024-04-28
+5225,Odonto Excelência,Centro-Oeste,Especialista,32069,2023-06-05
+5226,Clínica Especializado,Norte/Nordeste,Especialista,39762,2023-05-03
+5227,Centro Prime,SP Interior,Especialista,7656,2023-01-18
+5228,Implant Care,SP Capital,Popular,18326,2024-06-29
+5229,Centro Top,Centro-Oeste,Premium,32228,2023-01-10
+5230,Instituto VIP,Norte/Nordeste,Especialista,28137,2024-05-27
+5231,Clínica Plus,SP Interior,Popular,12044,2024-01-11
+5232,Centro Plus,Sul,Premium,18068,2024-02-07
+5233,Implant Care,Sudeste,Popular,36445,2024-02-01
+5234,Implant Excelência,SP Capital,Premium,36735,2023-05-01
+5235,Implant Premium,Sul,Premium,37745,2024-08-20
+5236,Implant Plus,Sul,Popular,13292,2024-06-26
+5237,Instituto Especializado,SP Capital,Premium,29118,2024-03-04
+5238,Implant Prime,SP Interior,Especialista,31852,2024-08-12
+5239,Master Avançado,Norte/Nordeste,Popular,8266,2024-06-28
+5240,Master Premium,SP Capital,Especialista,21133,2023-04-18
+5241,Sorriso Premium,Sul,Premium,38261,2023-03-28
+5242,Odonto Premium,Norte/Nordeste,Popular,29437,2023-06-11
+5243,Sorriso Excelência,Sudeste,Especialista,34659,2023-12-27
+5244,Dental Avançado,Norte/Nordeste,Popular,35398,2023-05-14
+5245,Master Premium,Centro-Oeste,Premium,36619,2023-11-07
+5246,Implant Plus,SP Interior,Especialista,6193,2024-03-22
+5247,Prime Top,Sudeste,Especialista,34416,2024-04-25
+5248,Dental Care,Sudeste,Popular,37828,2024-01-30
+5249,Prime Top,Sudeste,Especialista,5838,2024-01-18
+5250,Dental Plus,Centro-Oeste,Especialista,10833,2024-04-10
+5251,Master Prime,Norte/Nordeste,Especialista,25076,2023-04-18
+5252,Clínica Premium,Sudeste,Especialista,31532,2023-11-14
+5253,Prime Top,SP Capital,Popular,6540,2024-02-04
+5254,Implant Avançado,SP Capital,Premium,13113,2024-11-12
+5255,Dental Top,Norte/Nordeste,Especialista,18440,2023-01-29
+5256,Implant Prime,Norte/Nordeste,Popular,28526,2024-09-22
+5257,Clínica Excelência,Centro-Oeste,Popular,20584,2023-01-26
+5258,Prime Premium,Sudeste,Premium,29143,2023-03-29
+5259,Implant Plus,Sul,Premium,32818,2023-10-24
+5260,Prime Care,SP Interior,Popular,31008,2024-01-04
+5261,Odonto VIP,Sul,Popular,8019,2024-09-17
+5262,Centro Prime,SP Interior,Premium,39505,2024-02-22
+5263,Oral Avançado,Norte/Nordeste,Popular,7980,2023-06-18
+5264,Prime Top,Sudeste,Premium,31574,2023-10-19
+5265,Prime Prime,SP Interior,Premium,14665,2024-02-10
+5266,Instituto Premium,SP Interior,Popular,37062,2023-10-19
+5267,Oral Excelência,Sul,Especialista,26358,2023-05-02
+5268,Odonto Prime,Sul,Popular,17665,2023-07-17
+5269,Prime Care,Norte/Nordeste,Premium,6855,2024-11-27
+5270,Centro Especializado,Sul,Especialista,33513,2024-03-08
+5271,Master Excelência,SP Interior,Premium,13443,2023-12-02
+5272,Prime Premium,Sudeste,Premium,7500,2023-06-24
+5273,Centro Plus,Norte/Nordeste,Especialista,24667,2023-08-09
+5274,Odonto Especializado,SP Capital,Especialista,17034,2023-10-12
+5275,Implant Prime,Sudeste,Premium,9566,2024-02-18
+5276,Master Plus,Sudeste,Especialista,35667,2023-11-27
+5277,Dental Center,Centro-Oeste,Premium,34460,2024-04-22
+5278,Master Plus,Norte/Nordeste,Popular,36756,2023-03-05
+5279,Oral VIP,SP Interior,Popular,22726,2023-04-05
+5280,Sorriso Prime,Sudeste,Especialista,33978,2023-12-28
+5281,Implant Plus,Sul,Especialista,23451,2024-06-14
+5282,Instituto Top,Norte/Nordeste,Premium,8063,2024-06-25
+5283,Implant Center,Sudeste,Popular,24995,2024-11-28
+5284,Clínica Avançado,Centro-Oeste,Especialista,24799,2024-06-10
+5285,Master Prime,SP Interior,Popular,17446,2024-04-05
+5286,Dental Especializado,Centro-Oeste,Especialista,22423,2023-08-31
+5287,Sorriso VIP,SP Interior,Especialista,24537,2024-04-28
+5288,Instituto Excelência,SP Capital,Especialista,7279,2023-12-15
+5289,Master Plus,Centro-Oeste,Especialista,28351,2023-04-29
+5290,Sorriso Center,Centro-Oeste,Popular,37767,2024-01-20
+5291,Sorriso Care,Sul,Especialista,36255,2023-06-11
+5292,Sorriso Plus,SP Capital,Popular,37963,2023-03-05
+5293,Dental Care,SP Interior,Popular,38872,2023-06-21
+5294,Odonto Prime,Sul,Especialista,15135,2024-11-08
+5295,Odonto Top,Sudeste,Especialista,12734,2023-07-07
+5296,Instituto Especializado,Norte/Nordeste,Especialista,18881,2023-07-03
+5297,Instituto Premium,Centro-Oeste,Popular,22635,2023-12-05
+5298,Instituto Center,SP Interior,Especialista,30212,2024-10-05
+5299,Implant Especializado,SP Capital,Premium,16239,2024-04-02
+5300,Implant Center,Sul,Popular,8410,2024-01-31
+5301,Master Prime,SP Interior,Premium,11894,2023-08-21
+5302,Prime Center,SP Capital,Premium,20825,2024-01-03
+5303,Master Premium,SP Interior,Especialista,7737,2023-10-04
+5304,Implant Avançado,SP Interior,Especialista,20563,2024-09-20
+5305,Implant Premium,SP Capital,Premium,33959,2024-06-27
+5306,Centro Especializado,SP Capital,Premium,8128,2023-09-16
+5307,Clínica Plus,Centro-Oeste,Premium,15619,2024-07-01
+5308,Sorriso Top,SP Interior,Premium,14883,2023-07-01
+5309,Instituto Especializado,Sudeste,Premium,14652,2023-01-31
+5310,Instituto Care,Centro-Oeste,Premium,5303,2023-06-18
+5311,Dental Excelência,SP Capital,Premium,11731,2024-05-15
+5312,Centro Premium,Norte/Nordeste,Popular,19818,2023-01-30
+5313,Odonto Plus,Norte/Nordeste,Premium,16815,2024-08-20
+5314,Sorriso Excelência,Norte/Nordeste,Popular,8118,2023-10-25
+5315,Master Premium,Sul,Premium,5135,2024-11-24
+5316,Clínica Plus,Norte/Nordeste,Premium,5553,2023-06-11
+5317,Clínica Excelência,SP Capital,Popular,39885,2023-08-24
+5318,Odonto Avançado,Sudeste,Premium,7070,2024-05-05
+5319,Implant Center,Centro-Oeste,Especialista,20616,2024-10-11
+5320,Instituto Premium,Sul,Especialista,21106,2023-05-06
+5321,Master Premium,Centro-Oeste,Popular,28401,2024-07-01
+5322,Instituto Care,Norte/Nordeste,Premium,16896,2024-09-03
+5323,Implant Especializado,Sudeste,Especialista,30849,2023-09-17
+5324,Centro Premium,SP Capital,Popular,17934,2024-05-19
+5325,Sorriso Especializado,SP Interior,Premium,21603,2023-02-19
+5326,Implant Prime,SP Capital,Popular,14967,2024-03-28
+5327,Prime Care,SP Capital,Popular,19666,2023-12-21
+5328,Prime Top,Sudeste,Especialista,26594,2024-04-03
+5329,Centro Premium,SP Interior,Premium,7802,2024-05-11
+5330,Prime Plus,Centro-Oeste,Premium,37744,2024-05-03
+5331,Sorriso Avançado,Norte/Nordeste,Premium,22798,2024-01-15
+5332,Clínica Avançado,SP Interior,Popular,35994,2024-09-12
+5333,Dental Care,SP Interior,Especialista,6253,2023-11-04
+5334,Centro VIP,Sudeste,Especialista,35255,2023-04-29
+5335,Dental Care,SP Capital,Premium,17319,2023-08-25
+5336,Dental Top,SP Capital,Premium,19298,2023-03-13
+5337,Prime Top,Sul,Especialista,29469,2024-11-07
+5338,Instituto Premium,SP Interior,Especialista,14721,2024-10-06
+5339,Odonto Premium,Sudeste,Popular,23970,2024-05-03
+5340,Odonto Especializado,Centro-Oeste,Premium,24070,2023-04-29
+5341,Prime Care,SP Capital,Especialista,28004,2024-04-16
+5342,Odonto Premium,Norte/Nordeste,Premium,19528,2023-03-19
+5343,Implant Top,Sul,Popular,26545,2023-12-08
+5344,Sorriso Excelência,Sul,Popular,10099,2024-06-18
+5345,Centro VIP,SP Capital,Popular,25199,2023-06-26
+5346,Instituto Avançado,Norte/Nordeste,Especialista,27652,2024-11-10
+5347,Prime Prime,SP Interior,Premium,34784,2024-04-18
+5348,Odonto Care,SP Capital,Especialista,8191,2023-01-08
+5349,Centro Especializado,Centro-Oeste,Popular,9741,2024-03-10
+5350,Master Plus,Sul,Premium,34808,2023-01-17
+5351,Clínica Avançado,SP Capital,Especialista,34109,2023-02-03
+5352,Odonto Center,Centro-Oeste,Premium,32892,2023-05-28
+5353,Master VIP,Sudeste,Especialista,39215,2024-09-02
+5354,Dental Excelência,Sul,Popular,9071,2023-10-20
+5355,Implant Top,SP Capital,Especialista,31139,2023-01-04
+5356,Implant Avançado,Sul,Premium,33266,2024-10-12
+5357,Odonto Excelência,Centro-Oeste,Popular,35322,2023-10-22
+5358,Odonto Plus,Sul,Especialista,22550,2024-09-15
+5359,Dental Top,Norte/Nordeste,Premium,18537,2023-03-31
+5360,Implant Prime,Centro-Oeste,Especialista,21898,2023-08-04
+5361,Implant Especializado,SP Interior,Premium,27777,2024-11-05
+5362,Odonto Care,Sul,Premium,10203,2023-06-24
+5363,Centro Plus,Centro-Oeste,Premium,29366,2024-04-02
+5364,Oral Prime,SP Capital,Popular,8722,2023-07-15
+5365,Odonto Prime,SP Capital,Especialista,38780,2023-05-15
+5366,Master Premium,Norte/Nordeste,Popular,22254,2024-04-25
+5367,Oral Avançado,SP Interior,Premium,8194,2024-05-26
+5368,Implant Excelência,SP Interior,Premium,25938,2023-02-08
+5369,Odonto Especializado,Centro-Oeste,Premium,24285,2024-07-05
+5370,Master VIP,SP Capital,Especialista,23723,2023-12-28
+5371,Oral Top,Norte/Nordeste,Especialista,14180,2024-07-22
+5372,Sorriso Especializado,Centro-Oeste,Especialista,22237,2024-07-29
+5373,Dental Avançado,Sul,Premium,9239,2023-09-03
+5374,Master Center,Sul,Premium,10870,2024-03-20
+5375,Instituto Top,Norte/Nordeste,Premium,36869,2023-05-24
+5376,Instituto Especializado,Norte/Nordeste,Popular,36643,2023-12-25
+5377,Dental Plus,Sudeste,Especialista,26146,2024-10-04
+5378,Centro Center,Sul,Premium,30466,2024-09-19
+5379,Instituto VIP,Sudeste,Popular,16633,2023-09-13
+5380,Odonto Prime,Sul,Especialista,7890,2024-11-24
+5381,Dental VIP,SP Capital,Premium,38767,2023-12-10
+5382,Oral Prime,Sul,Especialista,15315,2023-05-18
+5383,Implant Avançado,Norte/Nordeste,Popular,33306,2024-10-02
+5384,Odonto Plus,SP Capital,Especialista,17888,2023-11-09
+5385,Sorriso Top,Sudeste,Especialista,37711,2023-01-26
+5386,Centro Premium,Sudeste,Popular,34485,2024-01-15
+5387,Odonto Top,SP Capital,Premium,38136,2024-09-11
+5388,Prime Premium,Sudeste,Especialista,33632,2024-07-25
+5389,Master Excelência,SP Interior,Especialista,10284,2023-06-18
+5390,Centro Center,Centro-Oeste,Popular,17329,2023-10-08
+5391,Dental Premium,Norte/Nordeste,Popular,7578,2023-09-25
+5392,Sorriso Prime,SP Capital,Popular,19699,2024-09-30
+5393,Instituto Premium,Centro-Oeste,Premium,34195,2023-09-15
+5394,Oral Premium,SP Interior,Popular,28672,2023-04-27
+5395,Implant VIP,Norte/Nordeste,Premium,30301,2023-07-22
+5396,Dental Prime,Sudeste,Popular,36385,2024-11-28
+5397,Prime Avançado,Sudeste,Popular,20650,2023-06-20
+5398,Instituto Excelência,Norte/Nordeste,Popular,38948,2023-01-03
+5399,Sorriso Top,Sudeste,Especialista,10966,2023-07-12
+5400,Dental Avançado,Sul,Popular,14827,2023-11-08
+5401,Prime Avançado,SP Capital,Premium,6845,2023-08-12
+5402,Prime Especializado,Norte/Nordeste,Especialista,36547,2024-08-07
+5403,Centro Top,Sul,Premium,12824,2024-09-24
+5404,Instituto Top,Centro-Oeste,Popular,6471,2024-02-08
+5405,Master Premium,Centro-Oeste,Popular,30738,2024-06-25
+5406,Instituto Avançado,SP Interior,Especialista,24318,2024-07-24
+5407,Implant VIP,Sudeste,Popular,18109,2024-07-01
+5408,Oral Top,Sul,Popular,34728,2024-07-02
+5409,Odonto Prime,Norte/Nordeste,Popular,10819,2024-09-11
+5410,Dental Center,Sudeste,Premium,37521,2023-10-17
+5411,Odonto Center,Sul,Especialista,35465,2024-07-11
+5412,Dental VIP,Norte/Nordeste,Premium,33884,2023-01-28
+5413,Instituto Premium,SP Capital,Premium,36167,2023-12-04
+5414,Implant Top,SP Capital,Premium,34394,2024-08-11
+5415,Dental Avançado,Sul,Popular,5237,2023-12-04
+5416,Oral Especializado,SP Capital,Premium,24619,2023-11-30
+5417,Odonto Especializado,Centro-Oeste,Popular,33277,2024-03-04
+5418,Clínica Plus,Norte/Nordeste,Popular,37987,2024-07-07
+5419,Implant Prime,SP Interior,Premium,22812,2023-07-27
+5420,Clínica Premium,SP Capital,Premium,17613,2023-05-09
+5421,Odonto Avançado,SP Interior,Premium,39410,2023-03-27
+5422,Master Especializado,Norte/Nordeste,Especialista,25522,2023-02-14
+5423,Clínica Plus,SP Interior,Popular,26487,2023-03-08
+5424,Oral VIP,SP Capital,Popular,37420,2024-07-25
+5425,Clínica Care,Sul,Popular,21088,2024-11-01
+5426,Dental Plus,SP Interior,Premium,16602,2024-06-18
+5427,Odonto Care,Sul,Especialista,21445,2023-04-21
+5428,Centro Prime,SP Interior,Premium,15738,2023-06-23
+5429,Odonto Prime,SP Interior,Especialista,38337,2023-09-21
+5430,Centro Avançado,Sudeste,Popular,12969,2023-03-26
+5431,Odonto Care,SP Interior,Popular,10632,2024-01-11
+5432,Prime Top,Sudeste,Especialista,7838,2023-03-28
+5433,Sorriso Care,SP Capital,Popular,10929,2024-10-13
+5434,Master Prime,SP Interior,Premium,6916,2024-09-08
+5435,Sorriso VIP,Sudeste,Popular,38998,2023-03-15
+5436,Clínica Excelência,Sudeste,Popular,22364,2024-11-21
+5437,Instituto Center,Centro-Oeste,Especialista,35666,2024-05-24
+5438,Oral VIP,Sul,Popular,28420,2024-11-07
+5439,Instituto Especializado,Centro-Oeste,Especialista,7554,2024-06-18
+5440,Clínica Premium,Centro-Oeste,Popular,6744,2024-08-09
+5441,Centro Plus,Sul,Popular,28084,2024-09-06
+5442,Centro Excelência,SP Interior,Popular,39348,2023-12-04
+5443,Odonto Prime,Sul,Popular,31486,2024-05-16
+5444,Master Excelência,Sudeste,Especialista,28368,2024-09-09
+5445,Implant VIP,Centro-Oeste,Premium,37072,2024-05-27
+5446,Dental Prime,Sul,Popular,8745,2024-04-14
+5447,Sorriso Top,Sul,Popular,17367,2024-07-15
+5448,Sorriso Top,Sul,Popular,10007,2023-03-05
+5449,Implant Care,Norte/Nordeste,Premium,35046,2023-08-19
+5450,Master Care,SP Interior,Premium,35399,2023-12-05
+5451,Prime Care,Sul,Especialista,32853,2023-09-30
+5452,Centro Prime,SP Capital,Premium,34048,2023-11-01
+5453,Odonto Center,SP Interior,Premium,27601,2024-02-04
+5454,Centro Center,Sul,Popular,7047,2024-09-24
+5455,Instituto Center,SP Capital,Popular,34709,2023-09-10
+5456,Oral Top,Norte/Nordeste,Especialista,27357,2023-11-07
+5457,Instituto Plus,Centro-Oeste,Popular,10016,2024-09-04
+5458,Dental Top,Sul,Premium,6565,2024-07-27
+5459,Oral Especializado,SP Interior,Popular,26274,2023-04-13
+5460,Master Avançado,Norte/Nordeste,Especialista,34466,2023-06-15
+5461,Clínica Care,Centro-Oeste,Premium,9837,2024-09-25
+5462,Implant Plus,Centro-Oeste,Especialista,25442,2023-12-13
+5463,Oral Top,SP Interior,Popular,33502,2023-05-30
+5464,Centro Plus,SP Capital,Premium,24554,2024-04-18
+5465,Oral Excelência,Sudeste,Popular,20789,2023-03-18
+5466,Prime Especializado,SP Capital,Especialista,8808,2023-07-21
+5467,Instituto Center,Sudeste,Popular,20966,2023-01-29
+5468,Dental VIP,Norte/Nordeste,Premium,30578,2023-07-08
+5469,Implant Top,Centro-Oeste,Popular,16233,2024-09-10
+5470,Clínica Excelência,SP Interior,Popular,34077,2023-09-10
+5471,Centro Premium,SP Capital,Premium,5131,2024-11-30
+5472,Instituto Plus,SP Interior,Premium,24185,2024-08-26
+5473,Odonto Plus,Norte/Nordeste,Especialista,23456,2023-02-20
+5474,Prime Prime,Norte/Nordeste,Premium,39401,2023-11-05
+5475,Implant Prime,Sul,Premium,9827,2023-07-21
+5476,Master Excelência,Centro-Oeste,Premium,29328,2023-04-14
+5477,Oral Premium,SP Capital,Popular,11006,2023-09-21
+5478,Centro Premium,Centro-Oeste,Popular,20953,2023-05-05
+5479,Dental Avançado,SP Capital,Premium,16226,2023-07-25
+5480,Sorriso Plus,SP Capital,Popular,25574,2023-04-20
+5481,Odonto Care,Sudeste,Premium,25949,2024-06-01
+5482,Oral Top,Sul,Popular,25136,2024-11-29
+5483,Prime Plus,Sul,Popular,19456,2024-10-18
+5484,Oral Plus,SP Capital,Popular,28346,2024-09-18
+5485,Instituto Prime,SP Capital,Popular,18541,2024-10-07
+5486,Oral Plus,Sudeste,Premium,14185,2024-06-23
+5487,Implant Care,Centro-Oeste,Especialista,14325,2024-04-10
+5488,Master VIP,Norte/Nordeste,Popular,27449,2024-06-09
+5489,Odonto Center,Sul,Especialista,18651,2023-07-18
+5490,Clínica VIP,Norte/Nordeste,Premium,6434,2023-10-19
+5491,Dental Prime,Sudeste,Especialista,26286,2024-06-05
+5492,Oral Prime,Sudeste,Especialista,9890,2024-10-08
+5493,Instituto Top,Norte/Nordeste,Premium,10075,2024-02-02
+5494,Prime Avançado,Centro-Oeste,Popular,23774,2023-05-28
+5495,Centro Care,Centro-Oeste,Popular,25743,2023-06-06
+5496,Clínica Top,SP Interior,Premium,16402,2024-05-02
+5497,Oral VIP,Sudeste,Popular,13967,2024-07-18
+5498,Sorriso Prime,SP Capital,Premium,6176,2023-11-21
+5499,Sorriso Prime,Sudeste,Especialista,32512,2024-02-02
+5500,Instituto Especializado,Sul,Especialista,28770,2024-05-31
