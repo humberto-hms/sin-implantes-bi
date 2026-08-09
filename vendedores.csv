@@ -1,0 +1,101 @@
+vendedor_id,nome,tipo,regional,supervisor,gerente_distrital,tempo_empresa,senioridade
+1001,Lucas Nascimento,FVE,SP Interior,,Carolina Barros,8,Senior
+1002,Camila Silva,FVE,SP Interior,,Igor Rodrigues,1,Junior
+1003,Paulo Araujo,FVE,SP Interior,,Carolina Barros,9,Junior
+1004,Lucas Rodrigues,FVE,Norte/Nordeste,,Carolina Rodrigues,1,Junior
+1005,Natalia Lima,FVE,Centro-Oeste,,Carolina Rodrigues,1,Senior
+1006,Ana Martins,FVE,SP Interior,,Igor Rodrigues,8,Junior
+1007,Gabriel Lima,FVE,SP Capital,,Carolina Barros,5,Junior
+1008,Gabriel Almeida,FVE,Sudeste,,Carolina Barros,4,Senior
+1009,Diego Fernandes,FVE,SP Interior,,Carolina Rodrigues,6,Junior
+1010,Simone Pereira,FVE,SP Capital,,Marcelo Rocha,7,Pleno
+1011,Henrique Rodrigues,FVE,SP Capital,,Marcelo Barros,3,Junior
+1012,Gustavo Freitas,FVE,Centro-Oeste,,Carolina Barros,8,Junior
+1013,Roberta Freitas,FVE,Sudeste,,Julio Souza,7,Senior
+1014,Carla Rodrigues,FVE,SP Capital,,Igor Rodrigues,8,Junior
+1015,Julio Nascimento,FVE,Sudeste,,Julio Souza,4,Pleno
+1016,Renata Carvalho,FVE,SP Capital,,Carolina Barros,2,Senior
+1017,Rafael Oliveira,FVE,Centro-Oeste,,Carolina Rodrigues,2,Pleno
+1018,Simone Barros,FVE,Sudeste,,Carolina Barros,9,Pleno
+1019,Rafael Lima,FVE,SP Capital,,Julio Souza,3,Pleno
+1020,Fernando Rodrigues,FVE,Sul,,Marcelo Rocha,10,Junior
+1021,Gabriel Freitas,FVE,Centro-Oeste,,Carolina Barros,8,Pleno
+1022,Bruna Carvalho,FVE,SP Capital,,Carolina Rodrigues,8,Senior
+1023,Aline Nascimento,FVE,Sudeste,,Marcelo Barros,5,Junior
+1024,Amanda Costa,FVE,Centro-Oeste,,Marcelo Barros,3,Senior
+1025,Ana Lima,FVE,SP Capital,,Carolina Barros,1,Senior
+1026,Patricia Fernandes,FVE,SP Capital,,Marcelo Rocha,8,Senior
+1027,Eduardo Gomes,FVE,SP Capital,,Marcelo Rocha,6,Pleno
+1028,Sandra Almeida,FVE,SP Capital,,Marcelo Barros,8,Pleno
+1029,Victor Batista,FVE,SP Interior,,Marcelo Barros,8,Pleno
+1030,Renata Nascimento,FVE,SP Capital,,Marcelo Barros,2,Pleno
+1031,Lucas Souza,FVE,Centro-Oeste,,Julio Souza,3,Junior
+1032,Lucas Nascimento,FVE,SP Interior,,Carolina Rodrigues,3,Pleno
+1033,Camila Correia,FVE,Norte/Nordeste,,Julio Souza,6,Senior
+1034,Juliana Araujo,FVE,Sul,,Marcelo Rocha,3,Pleno
+1035,Simone Souza,FVE,Centro-Oeste,,Julio Souza,2,Junior
+1036,Felipe Pereira,FVE,SP Interior,,Julio Souza,9,Pleno
+1037,Leonardo Fernandes,FVE,SP Interior,,Julio Souza,10,Pleno
+1038,Paulo Freitas,FVE,Norte/Nordeste,,Carolina Barros,1,Junior
+1039,Aline Almeida,FVE,Sul,,Igor Rodrigues,10,Senior
+1040,Igor Almeida,FVE,SP Interior,,Igor Rodrigues,1,Pleno
+1041,Sandra Silva,FVE,Sul,,Carolina Barros,1,Junior
+1042,Mariana Fernandes,FVE,SP Capital,,Igor Rodrigues,2,Junior
+1043,Rafael Costa,FVE,Sudeste,,Carolina Rodrigues,5,Senior
+1044,Ana Araujo,FVE,Norte/Nordeste,,Carolina Rodrigues,3,Junior
+1045,Julio Teixeira,FVE,Norte/Nordeste,,Julio Souza,8,Pleno
+1046,Gabriel Rodrigues,FVE,Sudeste,,Marcelo Rocha,8,Senior
+1047,Camila Silva,FVE,SP Interior,,Carolina Barros,8,Senior
+1048,Leonardo Freitas,FVE,Sul,,Carolina Barros,2,Pleno
+1049,Paulo Carvalho,FVE,Sul,,Julio Souza,6,Pleno
+1050,Simone Correia,FVE,Sul,,Igor Rodrigues,5,Senior
+1051,Marcelo Nascimento,FVE,SP Interior,,Marcelo Rocha,8,Pleno
+1052,Thiago Fernandes,FVE,Sudeste,,Carolina Barros,9,Pleno
+1053,Paulo Teixeira,FVE,Sul,,Carolina Rodrigues,2,Senior
+1054,Diego Oliveira,FVE,Sul,,Marcelo Barros,5,Junior
+1055,Gabriel Araujo,FVE,SP Capital,,Carolina Rodrigues,5,Pleno
+1056,Paulo Rocha,FVE,SP Interior,,Marcelo Barros,7,Junior
+1057,Daniela Martins,FVE,Centro-Oeste,,Julio Souza,2,Junior
+1058,Diego Souza,FVE,Centro-Oeste,,Marcelo Barros,3,Senior
+1059,Juliana Martins,FVE,SP Capital,,Marcelo Rocha,2,Junior
+1060,Simone Correia,FVE,Centro-Oeste,,Igor Rodrigues,1,Junior
+2001,Anderson Correia,FVI,Norte/Nordeste,Juliana Ferraz,,6,Junior
+2002,Ana Martins,FVI,Sul,Roberta Falcão,,1,Senior
+2003,Ricardo Almeida,FVI,Sudeste,Juliana Ferraz,,5,Pleno
+2004,Rodrigo Carvalho,FVI,Sul,Roberta Falcão,,2,Senior
+2005,Renata Lima,FVI,Sul,Juliana Ferraz,,7,Junior
+2006,Diego Freitas,FVI,SP Interior,Roberta Falcão,,1,Senior
+2007,Mariana Fernandes,FVI,Sudeste,Juliana Ferraz,,3,Pleno
+2008,Ricardo Silva,FVI,SP Capital,Roberta Falcão,,6,Junior
+2009,Victor Souza,FVI,Sudeste,Juliana Ferraz,,3,Pleno
+2010,Julio Rocha,FVI,Sudeste,Roberta Falcão,,5,Senior
+2011,Victor Souza,FVI,Sul,Juliana Ferraz,,4,Junior
+2012,Mariana Costa,FVI,Centro-Oeste,Roberta Falcão,,9,Senior
+2013,Ana Barros,FVI,Sudeste,Juliana Ferraz,,10,Senior
+2014,Camila Carvalho,FVI,SP Capital,Roberta Falcão,,7,Pleno
+2015,Julio Silva,FVI,Centro-Oeste,Juliana Ferraz,,3,Senior
+2016,Lucas Nascimento,FVI,Sul,Roberta Falcão,,6,Senior
+2017,Daniela Carvalho,FVI,Centro-Oeste,Juliana Ferraz,,3,Junior
+2018,Anderson Oliveira,FVI,Centro-Oeste,Roberta Falcão,,1,Pleno
+2019,Natalia Oliveira,FVI,Sudeste,Juliana Ferraz,,1,Senior
+2020,Victor Freitas,FVI,Norte/Nordeste,Roberta Falcão,,7,Pleno
+2021,Vanessa Lima,FVI,Sudeste,Juliana Ferraz,,6,Pleno
+2022,Renata Oliveira,FVI,Sudeste,Roberta Falcão,,4,Junior
+2023,Bruno Lima,FVI,Norte/Nordeste,Juliana Ferraz,,8,Pleno
+2024,Lucas Batista,FVI,Centro-Oeste,Roberta Falcão,,10,Pleno
+2025,Vanessa Nascimento,FVI,SP Interior,Juliana Ferraz,,4,Junior
+2026,Amanda Teixeira,FVI,Sudeste,Roberta Falcão,,4,Junior
+2027,Amanda Rocha,FVI,Sul,Juliana Ferraz,,3,Junior
+2028,Priscila Teixeira,FVI,Sul,Roberta Falcão,,6,Junior
+2029,Sandra Correia,FVI,Norte/Nordeste,Juliana Ferraz,,7,Junior
+2030,Rafael Gomes,FVI,SP Interior,Roberta Falcão,,10,Pleno
+2031,Victor Souza,FVI,Sul,Juliana Ferraz,,1,Senior
+2032,Claudio Araujo,FVI,SP Capital,Roberta Falcão,,7,Junior
+2033,Paulo Correia,FVI,Norte/Nordeste,Juliana Ferraz,,4,Pleno
+2034,Anderson Souza,FVI,Centro-Oeste,Roberta Falcão,,1,Pleno
+2035,Anderson Nascimento,FVI,Sudeste,Juliana Ferraz,,3,Pleno
+2036,Victor Correia,FVI,Sudeste,Roberta Falcão,,9,Pleno
+2037,Ricardo Correia,FVI,Norte/Nordeste,Juliana Ferraz,,4,Junior
+2038,Lucas Silva,FVI,SP Capital,Roberta Falcão,,4,Junior
+2039,Eduardo Gomes,FVI,Sudeste,Juliana Ferraz,,9,Junior
+2040,Ricardo Rodrigues,FVI,Sudeste,Roberta Falcão,,3,Junior
